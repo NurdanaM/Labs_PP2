@@ -1,0 +1,130 @@
+{
+    "company": {
+        "name": "ТОО EUROPHARMA Астана",
+        "BIN": "080841000761",
+        "VAT": {
+            "series": "58001",
+            "number": "0014377"
+        }
+    },
+    "cash_register": {
+        "number": "300-189",
+        "shift": 10,
+        "receipt_number": 64,
+        "fiscal_receipt_number": "2331180266",
+        "cashier": "Аптека 17-1"
+    },
+    "items": [
+        {
+            "name": "Натрия хлорид 0,9%, 200 мл, фл",
+            "quantity": 2.0,
+            "unit_price": 154.0,
+            "total_price": 308.0
+        },
+        {
+            "name": "Борный спирт 3%, 20 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 51.0,
+            "total_price": 51.0
+        },
+        {
+            "name": "Шприц 2 мл, 3-х комп. (Bioject)",
+            "quantity": 2.0,
+            "unit_price": 16.0,
+            "total_price": 32.0
+        },
+        {
+            "name": "Система для инфузии Vogt Medical",
+            "quantity": 2.0,
+            "unit_price": 60.0,
+            "total_price": 120.0
+        },
+        {
+            "name": "Naturella прокладки Классик макси №8",
+            "quantity": 1.0,
+            "unit_price": 310.0,
+            "total_price": 310.0
+        },
+        {
+            "name": "AURA Ватные диски №150",
+            "quantity": 1.0,
+            "unit_price": 461.0,
+            "total_price": 461.0
+        },
+        {
+            "name": "Чистая линия скраб мягкий 50 мл",
+            "quantity": 1.0,
+            "unit_price": 381.0,
+            "total_price": 381.0
+        },
+        {
+            "name": "Чистая линия  скраб очищающийабрикос 50 мл",
+            "quantity": 1.0,
+            "unit_price": 386.0,
+            "total_price": 386.0
+        },
+        {
+            "name": "Чистая линия скраб мягкий 50 мл",
+            "quantity": 1.0,
+            "unit_price": 381.0,
+            "total_price": 381.0
+        },
+        {
+            "name": "Carefree салфетки Алоэвоздухопроницаемые №20",
+            "quantity": 1.0,
+            "unit_price": 414.0,
+            "total_price": 414.0
+        },
+        {
+            "name": "Pro Series Шампунь яркий цвет 500мл",
+            "quantity": 1.0,
+            "unit_price": 841.0,
+            "total_price": 841.0
+        },
+        {
+            "name": "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+            "quantity": 1.0,
+            "unit_price": 841.0,
+            "total_price": 841.0
+        },
+        {
+            "name": "Clear шампунь Актив спорт 2в1мужской  400 мл\n1,000 x 1 200,00\n1 200,00\nСтоимость\n1 200,00\n14.\nBio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл\n1,000 x 1 152,00\n1 152,00\nСтоимость\n1 152,00\n15.\nBio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл\n1,000 x 1 152,00\n1 152,00\nСтоимость\n1 152,00\n16.\n[RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 168.0,
+            "total_price": 168.0
+        },
+        {
+            "name": "[RX]-Дисоль р-р 400 мл, фл.",
+            "quantity": 1.0,
+            "unit_price": 163.0,
+            "total_price": 163.0
+        },
+        {
+            "name": "Тагансорбент с иономи серебра №30,пор.\n1,000 x 1 526,00\n1 526,00\nСтоимость\n1 526,00\n19.\n[RX]-Церукал 2%, 2 мл, №10, амп.",
+            "quantity": 2.0,
+            "unit_price": 396.0,
+            "total_price": 792.0
+        }
+    ],
+    "payment": {
+        "method": "Банковская карта",
+        "amount": 18.0
+    },
+    "total": {
+        "amount": 18.0,
+        "VAT_12_percent": 0.0
+    },
+    "fiscal_info": {
+        "fiscal_sign": "2331180266",
+        "time": "18.04.2019 11:13:58\n",
+        "location": "Нур-султан",
+        "operator": "АО\"Казахтелеком\"",
+        "verification_site": "consumer.oofd.kz"
+    },
+    "fiscal_device": {
+        "INK_OFD": "311559",
+        "KKM_KGD_code": "620300145316",
+        "ZNM": "SWK00034961",
+        "system": "WEBKASSA.KZ"
+    }
+}
